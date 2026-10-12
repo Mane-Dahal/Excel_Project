@@ -69,9 +69,9 @@ These projects taught me to turn raw data into clear answers in Excel. My analys
 
 ## 📚 Course Practice
 Exercises I completed while learning Excel:
-- [1-Spreadsheets_Intro_Formulas_Functions](1-Spreadsheets_Intro_Formulas_Functions)
+- [1-Spreadsheets_Intro & Formela_Function](1-Spreadsheets_Intro%20%26%20Formela_Function)
 - [2-Charts](2-Charts)
-- [3-Spreadsheets_Advanced](3-Spreadsheets_Advanced)
+- [3_Spreadsheets_Advanced](3_Spreadsheets_Advanced)
 - [4-Pivot_Tables](4-Pivot_Tables)
 - [5-Advanced_Data_Analysis](5-Advanced_Data_Analysis)
 - [6-Power_Query](6-Power_Query)
