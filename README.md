@@ -5,7 +5,7 @@ I'm learning data analytics. I built these two Excel projects as part of Luke Ba
 ---
 
 ## 📁 Project 1: Interactive Salary Dashboard
-**File:** [`1-Salary_Dashboard.xlsx`](1-Salary_Dashboard.xlsx)
+**File:** [`1-Salary_Dashboard.xlsx`](8-Project_1/1-Salary_Dashboard.xlsx)
 
 An interactive salary calculator. Choose a **job title, country and job type** to see the **median salary**, the **top job platform** and the **job count**, with charts and a map.
 
@@ -19,7 +19,7 @@ An interactive salary calculator. Choose a **job title, country and job type** t
 ---
 
 ## 📁 Project 2: Job Market Data Analysis
-**File:** [`1-Project_Analysis.xlsx`](1-Project_Analysis.xlsx)
+**File:** [`1-Project_Analysis.xlsx`](9-Project_2/1-Project_Analysis.xlsx)
 
 I analyzed the job postings to answer three questions: **Which skills are most in demand? What do data jobs pay? Which skills pay the most?**
 
@@ -67,10 +67,20 @@ These projects taught me to turn raw data into clear answers in Excel. My analys
 
 ---
 
+## 📚 Course Practice
+Exercises I completed while learning Excel:
+- [1-Spreadsheets_Intro_Formulas_Functions](1-Spreadsheets_Intro_Formulas_Functions)
+- [2-Charts](2-Charts)
+- [3-Spreadsheets_Advanced](3-Spreadsheets_Advanced)
+- [4-Pivot_Tables](4-Pivot_Tables)
+- [5-Advanced_Data_Analysis](5-Advanced_Data_Analysis)
+- [6-Power_Query](6-Power_Query)
+- [7-Power_Pivot](7-Power_Pivot)
+
 ## 🚀 How to Use
 1. Download this repository.
-2. Open `1-Salary_Dashboard.xlsx` and try the salary calculator.
-3. Open `1-Project_Analysis.xlsx` to explore the PivotTables and charts.
+2. Open `8-Project_1/1-Salary_Dashboard.xlsx` and try the salary calculator.
+3. Open `9-Project_2/1-Project_Analysis.xlsx` to explore the PivotTables and charts.
 
 *Tip: use Excel 365 or Excel 2021+ so all features work.*
 
