@@ -5,7 +5,7 @@ I'm learning data analytics. I built these two Excel projects as part of Luke Ba
 ---
 
 ## 📁 Project 1: Interactive Salary Dashboard
-**File:** `1-Salary_Dashboard.xlsx`
+**File:** [`1-Salary_Dashboard.xlsx`](1-Salary_Dashboard.xlsx)
 
 An interactive salary calculator. Choose a **job title, country and job type** to see the **median salary**, the **top job platform** and the **job count**, with charts and a map.
 
@@ -19,7 +19,7 @@ An interactive salary calculator. Choose a **job title, country and job type** t
 ---
 
 ## 📁 Project 2: Job Market Data Analysis
-**File:** `1-Project_Analysis.xlsx`
+**File:** [`1-Project_Analysis.xlsx`](1-Project_Analysis.xlsx)
 
 I analyzed the job postings to answer three questions: **Which skills are most in demand? What do data jobs pay? Which skills pay the most?**
 
